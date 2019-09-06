@@ -28,3 +28,21 @@ public class Exemplo001 {
 	}
 
 }
+
+/*
+Objetivo
+
+Apresentar os conceitos básicos de abstração e encapsulamento, através da adoção dos conceitos de classes, objetos, visibilidade de atributos e métodos e também a sintaxe básica da linguagem Java, que será adotada como ferramenta na disciplina.
+
+Utilizando o Eclipse
+
+Objetos e Classes
+
+Classe
+É o mecanismo para definição de um Tipo Abstrato de Dados (TAD) - modelo para estruturação (atributos) e manipulação (métodos) de um conjunto de objetos semelhantes.
+
+Objetos
+É uma instância de classe. “É uma  variável de memória”. 
+
+Note: float salário - salario é um a variável do tipo float. 
+*/
